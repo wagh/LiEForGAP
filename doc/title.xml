@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is an automatically generated file. -->
+<TitlePage>
+  <Title>
+    LiEForGAP
+  </Title>
+  <Subtitle>
+    Dictionary of LiE and &GAP;
+  </Subtitle>
+  <Version>
+    2022.10-20
+  </Version>
+  <Author>
+    VInay Wagh<Alt Only="LaTeX"><Br/></Alt>
+<Address>
+E-102, Department of Mathematics,<Br/>
+Indian Institute of Technology Guwahati,<Br/>
+Guwahati, Assam, India.<Br/>
+PIN: 781 039.<Br/>
+India<Br/>
+</Address>
+<Email>waghoba@gmail.com</Email>
+<Homepage>https://www.iitg.ac.in/vinay.wagh/</Homepage>
+
+  </Author>
+  <Date>
+    1 October 2022
+  </Date>
+  <Copyright>
+    &copyright; 2022-2022 by VInay Wagh
+
+This package may be distributed under the terms and conditions of the GNU Public License Version 2 or (at your option) any later version.
+  </Copyright>
+  </TitlePage>
